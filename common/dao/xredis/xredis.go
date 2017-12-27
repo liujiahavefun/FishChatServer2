@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/garyburd/redigo/redis"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/conf"
+	"FishChatServer2/common/conf"
 	"golang.org/x/net/context"
 	"time"
 )

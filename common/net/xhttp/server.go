@@ -2,8 +2,8 @@ package xhttp
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/conf"
-	"github.com/oikomi/FishChatServer2/common/net/netutil"
+	"FishChatServer2/common/conf"
+	"FishChatServer2/common/net/netutil"
 	"net"
 	"net/http"
 	"runtime"

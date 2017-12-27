@@ -5,7 +5,7 @@ import (
 	"errors"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/conf"
+	"FishChatServer2/common/conf"
 	"golang.org/x/net/context"
 	"time"
 )

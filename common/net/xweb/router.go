@@ -1,8 +1,8 @@
 package xweb
 
 import (
-	"github.com/oikomi/FishChatServer2/common/net/trace"
-	"github.com/oikomi/FishChatServer2/common/net/xweb/context"
+	"FishChatServer2/common/net/trace"
+	"FishChatServer2/common/net/xweb/context"
 	ctx "golang.org/x/net/context"
 	"net/http"
 )

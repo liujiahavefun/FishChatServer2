@@ -3,9 +3,9 @@ package router
 import (
 	"encoding/json"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/ecode"
-	"github.com/oikomi/FishChatServer2/common/net/xweb"
-	wctx "github.com/oikomi/FishChatServer2/common/net/xweb/context"
+	"FishChatServer2/common/ecode"
+	"FishChatServer2/common/net/xweb"
+	wctx "FishChatServer2/common/net/xweb/context"
 	"net/http"
 	"strconv"
 )

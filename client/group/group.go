@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"github.com/golang/glog"
 	"github.com/golang/protobuf/proto"
-	"github.com/oikomi/FishChatServer2/codec"
-	"github.com/oikomi/FishChatServer2/libnet"
-	"github.com/oikomi/FishChatServer2/protocol/external"
+	"FishChatServer2/codec"
+	"FishChatServer2/libnet"
+	"FishChatServer2/protocol/external"
 	"time"
 )
 

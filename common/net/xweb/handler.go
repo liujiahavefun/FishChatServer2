@@ -1,7 +1,7 @@
 package xweb
 
 import (
-	"github.com/oikomi/FishChatServer2/common/net/xweb/context"
+	"FishChatServer2/common/net/xweb/context"
 )
 
 type Handler interface {

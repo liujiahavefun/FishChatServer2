@@ -2,7 +2,7 @@ package mongodb
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/conf"
+	"FishChatServer2/common/conf"
 	"gopkg.in/mgo.v2"
 	"time"
 )
