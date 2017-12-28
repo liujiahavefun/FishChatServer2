@@ -2,8 +2,8 @@ package dao
 
 import (
 	// "github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/dao/xredis"
-	"github.com/oikomi/FishChatServer2/server/register/conf"
+	"FishChatServer2/common/dao/xredis"
+	"FishChatServer2/server/register/conf"
 )
 
 type Dao struct {

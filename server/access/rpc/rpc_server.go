@@ -2,12 +2,12 @@ package rpc
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/ecode"
-	"github.com/oikomi/FishChatServer2/protocol/external"
-	"github.com/oikomi/FishChatServer2/protocol/rpc"
-	"github.com/oikomi/FishChatServer2/server/access/conf"
-	"github.com/oikomi/FishChatServer2/server/access/global"
-	sd "github.com/oikomi/FishChatServer2/service_discovery/etcd"
+	"FishChatServer2/common/ecode"
+	"FishChatServer2/protocol/external"
+	"FishChatServer2/protocol/rpc"
+	"FishChatServer2/server/access/conf"
+	"FishChatServer2/server/access/global"
+	sd "FishChatServer2/service_discovery/etcd"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"net"

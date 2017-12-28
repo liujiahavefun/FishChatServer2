@@ -2,12 +2,12 @@ package http
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/ecode"
-	"github.com/oikomi/FishChatServer2/common/net/xhttp"
-	"github.com/oikomi/FishChatServer2/common/net/xhttp/router"
-	wctx "github.com/oikomi/FishChatServer2/common/net/xweb/context"
-	"github.com/oikomi/FishChatServer2/http_server/group-api/conf"
-	"github.com/oikomi/FishChatServer2/http_server/group-api/service"
+	"FishChatServer2/common/ecode"
+	"FishChatServer2/common/net/xhttp"
+	"FishChatServer2/common/net/xhttp/router"
+	wctx "FishChatServer2/common/net/xweb/context"
+	"FishChatServer2/http_server/group-api/conf"
+	"FishChatServer2/http_server/group-api/service"
 	"net/http"
 	"strconv"
 )

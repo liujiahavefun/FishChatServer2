@@ -2,9 +2,9 @@ package client
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/libnet"
-	"github.com/oikomi/FishChatServer2/protocol/external"
-	"github.com/oikomi/FishChatServer2/server/access/rpc"
+	"FishChatServer2/libnet"
+	"FishChatServer2/protocol/external"
+	"FishChatServer2/server/access/rpc"
 )
 
 type Client struct {

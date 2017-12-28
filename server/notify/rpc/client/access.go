@@ -3,8 +3,8 @@ package client
 import (
 	"errors"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/protocol/rpc"
-	"github.com/oikomi/FishChatServer2/server/notify/conf_discovery"
+	"FishChatServer2/protocol/rpc"
+	"FishChatServer2/server/notify/conf_discovery"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"time"

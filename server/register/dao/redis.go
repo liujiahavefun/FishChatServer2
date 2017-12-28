@@ -3,7 +3,7 @@ package dao
 import (
 	"github.com/garyburd/redigo/redis"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/server/register/conf"
+	"FishChatServer2/server/register/conf"
 	"golang.org/x/net/context"
 	"strconv"
 	"time"

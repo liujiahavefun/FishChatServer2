@@ -3,7 +3,7 @@ package zookeeper
 import (
 	"encoding/json"
 	"github.com/golang/glog"
-	commconf "github.com/oikomi/FishChatServer2/common/conf"
+	commconf "FishChatServer2/common/conf"
 	izk "github.com/samuel/go-zookeeper/zk"
 	"path"
 	"strings"

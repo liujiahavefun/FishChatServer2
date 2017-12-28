@@ -2,9 +2,9 @@ package service
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/http_server/user-api/model"
-	authRpc "github.com/oikomi/FishChatServer2/http_server/user-api/rpc"
-	"github.com/oikomi/FishChatServer2/protocol/rpc"
+	"FishChatServer2/http_server/user-api/model"
+	authRpc "FishChatServer2/http_server/user-api/rpc"
+	"FishChatServer2/protocol/rpc"
 )
 
 type Service struct {

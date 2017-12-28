@@ -3,7 +3,7 @@ package dao
 import (
 	"github.com/coreos/etcd/clientv3"
 	"github.com/golang/glog"
-	commconf "github.com/oikomi/FishChatServer2/common/conf"
+	commconf "FishChatServer2/common/conf"
 	"time"
 )
 

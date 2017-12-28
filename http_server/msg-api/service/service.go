@@ -3,7 +3,7 @@ package service
 import (
 	"github.com/golang/glog"
 	// "github.com/oikomi/FishChatServer2/http_server/msg-api/model"
-	managerRpc "github.com/oikomi/FishChatServer2/http_server/msg-api/rpc"
+	managerRpc "FishChatServer2/http_server/msg-api/rpc"
 	// "github.com/oikomi/FishChatServer2/protocol/rpc"
 )
 

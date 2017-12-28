@@ -2,8 +2,8 @@ package conf_discovery
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/conf_discovery/etcd"
-	"github.com/oikomi/FishChatServer2/server/notify/conf"
+	"FishChatServer2/conf_discovery/etcd"
+	"FishChatServer2/server/notify/conf"
 	"time"
 )
 

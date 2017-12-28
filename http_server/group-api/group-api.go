@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/http_server/group-api/conf"
-	"github.com/oikomi/FishChatServer2/http_server/group-api/http"
+	"FishChatServer2/http_server/group-api/conf"
+	"FishChatServer2/http_server/group-api/http"
 	"os"
 	"os/signal"
 	"syscall"

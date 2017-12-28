@@ -3,9 +3,9 @@ package dao
 import (
 	"database/sql"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/dao/xmysql"
-	"github.com/oikomi/FishChatServer2/server/notify/conf"
-	"github.com/oikomi/FishChatServer2/server/notify/model"
+	"FishChatServer2/common/dao/xmysql"
+	"FishChatServer2/server/notify/conf"
+	"FishChatServer2/server/notify/model"
 	"golang.org/x/net/context"
 )
 

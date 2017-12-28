@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/codec"
-	"github.com/oikomi/FishChatServer2/libnet"
-	"github.com/oikomi/FishChatServer2/server/access/conf"
-	"github.com/oikomi/FishChatServer2/server/access/rpc"
-	"github.com/oikomi/FishChatServer2/server/access/server"
+	"FishChatServer2/codec"
+	"FishChatServer2/libnet"
+	"FishChatServer2/server/access/conf"
+	"FishChatServer2/server/access/rpc"
+	"FishChatServer2/server/access/server"
 )
 
 func init() {

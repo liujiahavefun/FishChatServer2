@@ -3,8 +3,8 @@ package dao
 import (
 	"github.com/garyburd/redigo/redis"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/dao/xredis"
-	"github.com/oikomi/FishChatServer2/server/manager/conf"
+	"FishChatServer2/common/dao/xredis"
+	"FishChatServer2/server/manager/conf"
 	"golang.org/x/net/context"
 )
 

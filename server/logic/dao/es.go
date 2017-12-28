@@ -2,7 +2,7 @@ package dao
 
 import (
 	"github.com/golang/glog"
-	// "github.com/oikomi/FishChatServer2/server/logic/conf"
+	// "FishChatServer2/server/logic/conf"
 	elastic "gopkg.in/olivere/elastic.v5"
 )
 

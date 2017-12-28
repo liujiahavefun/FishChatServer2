@@ -2,8 +2,8 @@ package client
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/http_server/msg-api/conf"
-	sd "github.com/oikomi/FishChatServer2/service_discovery/etcd"
+	"FishChatServer2/http_server/msg-api/conf"
+	sd "FishChatServer2/service_discovery/etcd"
 	"google.golang.org/grpc"
 )
 

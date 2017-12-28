@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/server/register/conf"
-	"github.com/oikomi/FishChatServer2/server/register/rpc"
+	"FishChatServer2/server/register/conf"
+	"FishChatServer2/server/register/rpc"
 )
 
 func init() {

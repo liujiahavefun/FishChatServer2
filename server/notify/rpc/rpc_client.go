@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/server/notify/rpc/client"
+	"FishChatServer2/server/notify/rpc/client"
 )
 
 type RPCClient struct {

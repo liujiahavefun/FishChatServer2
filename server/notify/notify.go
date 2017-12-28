@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/server/notify/conf"
-	"github.com/oikomi/FishChatServer2/server/notify/conf_discovery"
-	"github.com/oikomi/FishChatServer2/server/notify/rpc"
+	"FishChatServer2/server/notify/conf"
+	"FishChatServer2/server/notify/conf_discovery"
+	"FishChatServer2/server/notify/rpc"
 )
 
 func init() {

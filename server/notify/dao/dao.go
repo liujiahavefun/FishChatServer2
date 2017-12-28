@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"github.com/oikomi/FishChatServer2/common/dao/xredis"
-	"github.com/oikomi/FishChatServer2/server/notify/conf"
+	"FishChatServer2/common/dao/xredis"
+	"FishChatServer2/server/notify/conf"
 )
 
 type Dao struct {

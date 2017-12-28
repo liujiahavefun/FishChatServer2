@@ -1,7 +1,7 @@
 package conf_discovery
 
 import (
-	"github.com/oikomi/FishChatServer2/common/constant"
+	"FishChatServer2/common/constant"
 )
 
 type Heart struct {
