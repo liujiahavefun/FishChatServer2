@@ -2,9 +2,9 @@ package dao
 
 import (
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/common/dao/mongodb"
-	commmodel "github.com/oikomi/FishChatServer2/common/model"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/conf"
+	"FishChatServer2/common/dao/mongodb"
+	commmodel "FishChatServer2/common/model"
+	"FishChatServer2/jobs/msg_job/conf"
 )
 
 type MongoDB struct {

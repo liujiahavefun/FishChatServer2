@@ -3,11 +3,11 @@ package service
 import (
 	"encoding/json"
 	"github.com/golang/glog"
-	commmodel "github.com/oikomi/FishChatServer2/common/model"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/conf"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/dao"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/rpc"
-	protoRPC "github.com/oikomi/FishChatServer2/protocol/rpc"
+	commmodel "FishChatServer2/common/model"
+	"FishChatServer2/jobs/msg_job/conf"
+	"FishChatServer2/jobs/msg_job/dao"
+	"FishChatServer2/jobs/msg_job/rpc"
+	protoRPC "FishChatServer2/protocol/rpc"
 	"sync"
 	"time"
 )

@@ -3,7 +3,7 @@ package conf
 import (
 	"flag"
 	"github.com/BurntSushi/toml"
-	commconf "github.com/oikomi/FishChatServer2/common/conf"
+	commconf "FishChatServer2/common/conf"
 )
 
 var (

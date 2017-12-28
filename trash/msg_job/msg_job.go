@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"github.com/golang/glog"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/conf"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/conf_discovery"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/service"
+	"FishChatServer2/jobs/msg_job/conf"
+	"FishChatServer2/jobs/msg_job/conf_discovery"
+	"FishChatServer2/jobs/msg_job/service"
 	"os"
 	"os/signal"
 	"syscall"

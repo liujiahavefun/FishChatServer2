@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"github.com/oikomi/FishChatServer2/common/dao/kafka"
-	"github.com/oikomi/FishChatServer2/jobs/msg_job/conf"
+	"FishChatServer2/common/dao/kafka"
+	"FishChatServer2/jobs/msg_job/conf"
 )
 
 type Kafka struct {
