@@ -22,3 +22,11 @@ Thumbs.db
 *.log
 *.swp
 *.swo
+access
+gateway
+logic
+manager
+notify
+register
+group
+p2p
